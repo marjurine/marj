@@ -53,6 +53,15 @@
     "lat": 16.6583,
     "lng": 120.3216
   },
+  {
+    "id": 212,
+    "name": "Macho Temple",
+    "imageUrl": "http://www.kahunaresort.com/images/gallery/pool-view-suite-04.png",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat":  16.621514,
+    "lng": 120.317510
+  },
     {
     "id": 211,
     "name": "House",
