@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Halo halo de iloko",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
+   "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
     "priceCurrency": "₱",
-    "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
   },
   {
     "id": 148,
