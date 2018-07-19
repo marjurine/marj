@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
-    "priceCurrency": "PHP",
-    "price": 150,
-    "lat": 16.3188,
-    "lng": 120.4687
+   "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
   },
   {
     "id": 211,
