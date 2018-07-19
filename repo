@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
+    "imageUrl": "http://1.bp.blogspot.com/-pz6GsB-5Prw/VjsYvNkcVbI/AAAAAAAAGDU/fgr9xstMi8o/s1600/Bahay%2BNa%2BBato%2B7.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8472,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
+    "imageUrl": "http://www.kahunaresort.com/images/gallery/pool-view-suite-04.png",
     "priceCurrency": "₱",
     "price": 200,
     "lat": 16.6583,
