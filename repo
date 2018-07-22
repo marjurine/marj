@@ -1,24 +1,6 @@
 [
   {
-    "id": 206,
-   "name": "Pugad Resort",
-    "imageUrl": "http://media.tumblr.com/fa0f28e753e0048bfd610094790a1956/tumblr_inline_mkfk6tJuZm1qz4rgp.jpg",
-    "priceCurrency": "₱",
-    "price": 200,
-    "lat": 16.2833,
-    "lng": 120.4833
-  },
-  {
-    "id": 207,
-    "name": "Halo halo de iloko",
-    "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
-    "priceCurrency": "₱",
-    "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
-  },
-  {
-    "id": 208,
+    "id": 201,
     "name": "Bahay na Bato",
     "imageUrl": "http://1.bp.blogspot.com/-pz6GsB-5Prw/VjsYvNkcVbI/AAAAAAAAGDU/fgr9xstMi8o/s1600/Bahay%2BNa%2BBato%2B7.jpg",
     "priceCurrency": "₱",
@@ -27,7 +9,7 @@
     "lng": 120.3517
   },
   {
-    "id": 209,
+    "id": 202,
     "name": "Marand Resort",
     "imageUrl": "http://images.asiatravel.com/Hotel/17684/facade.jpg",
     "priceCurrency": "₱",
@@ -36,7 +18,7 @@
     "lng": 120.3294
   },
   {
-    "id": 210,
+    "id": 203,
    "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
     "priceCurrency": "₱",
@@ -45,7 +27,7 @@
     "lng": 120.4833
   },
   {
-    "id": 211,
+    "id": 204,
     "name": "Kahuna Resort",
     "imageUrl": "http://www.kahunaresort.com/images/gallery/pool-view-suite-04.png",
     "priceCurrency": "₱",
@@ -54,7 +36,7 @@
     "lng": 120.3216
   },
   {
-    "id": 212,
+    "id": 205,
     "name": "Macho Temple",
     "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010502.jpg",
     "priceCurrency": "₱",
@@ -63,7 +45,7 @@
     "lng": 120.317510
   },
   {
-    "id": 213,
+    "id": 206,
     "name": "Thunderbird Resort",
     "imageUrl": "https://thunderbird-asia.com/wp-content/uploads/2017/10/poro-main-page-header.jpg",
     "priceCurrency": "₱",
@@ -72,7 +54,7 @@
     "lng": 120.286335
   },
    {
-    "id": 214,
+    "id": 207,
     "name": "Grapes Picking",
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/grapes-picking.jpg",
     "priceCurrency": "₱",
@@ -81,7 +63,7 @@
     "lng": 120.333869
   },
    {
-    "id": 215,
+    "id": 208,
     "name": "Urbiztondo Beach",
     "imageUrl": "http://4.bp.blogspot.com/-dYEcPBk7oeg/VKymPojv6QI/AAAAAAAAG2s/PSN5lK2evDw/s1600/16218092672_1e06941e78_o.jpg",
     "priceCurrency": "₱",
@@ -89,8 +71,26 @@
     "lat":  16.658783,
     "lng": 120.321468
   },
+  {
+    "id": 209,
+   "name": "Pugad Resort",
+    "imageUrl": "http://media.tumblr.com/fa0f28e753e0048bfd610094790a1956/tumblr_inline_mkfk6tJuZm1qz4rgp.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
+  },
+  {
+    "id": 210,
+    "name": "Halo halo de iloko",
+    "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
     {
-    "id": 211,
+    "id": 213,
     "name": "House",
     "imageUrl": "https://github.com/marjurine/marj/blob/master/bahay.JPG",
     "priceCurrency": "₱",
