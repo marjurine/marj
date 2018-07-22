@@ -110,7 +110,7 @@
     {
     "id": 213,
     "name": "House",
-    "imageUrl": "https://github.com/marjurine/marj/blob/master/bahay.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/marjurine/marj/master/bahay.JPG",
     "priceCurrency": "₱",
     "price": 0,
     "lat": 16.975348,
