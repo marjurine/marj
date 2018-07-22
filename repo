@@ -82,13 +82,23 @@
   },
   {
     "id": 210,
-    "name": "Halo halo de iloko",
+    "name": "Halo halo de Iloko",
     "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
     "priceCurrency": "₱",
     "price": 120,
     "lat": 16.6167,
     "lng": 120.3197
   },
+  {
+    "id": 211,
+    "name": "Namacpacan Church",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat":  16.853714,
+    "lng": 120.376905
+  },
+  
     {
     "id": 213,
     "name": "House",
