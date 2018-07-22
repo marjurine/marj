@@ -98,7 +98,15 @@
     "lat":  16.853714,
     "lng": 120.376905
   },
-  
+   {
+    "id": 212,
+    "name": "Basilica Minore of OUr Lady of Charity",
+    "imageUrl": "https://3.bp.blogspot.com/-_xbpteh5wcI/V_UmDmAxS6I/AAAAAAAAIVg/jAXGX83uVTQv8--LsJAGQwb25MG6t7Y7wCLcB/s1600/IMG_4000.JPG",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat":    16.324756,
+    "lng": 120.355081
+  },
     {
     "id": 213,
     "name": "House",
