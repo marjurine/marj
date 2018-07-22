@@ -22,7 +22,7 @@
    "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 30,
     "lat": 16.2833,
     "lng": 120.4833
   },
@@ -40,7 +40,7 @@
     "name": "Macho Temple",
     "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010502.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 0,
     "lat":  16.621514,
     "lng": 120.317510
   },
@@ -49,7 +49,7 @@
     "name": "Thunderbird Resort",
     "imageUrl": "https://thunderbird-asia.com/wp-content/uploads/2017/10/poro-main-page-header.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 1500,
     "lat": 16.609267,
     "lng": 120.286335
   },
@@ -58,7 +58,7 @@
     "name": "Grapes Picking",
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/grapes-picking.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 0,
     "lat":  16.461432,
     "lng": 120.333869
   },
@@ -67,7 +67,7 @@
     "name": "Urbiztondo Beach",
     "imageUrl": "http://4.bp.blogspot.com/-dYEcPBk7oeg/VKymPojv6QI/AAAAAAAAG2s/PSN5lK2evDw/s1600/16218092672_1e06941e78_o.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 150,
     "lat":  16.658783,
     "lng": 120.321468
   },
@@ -94,7 +94,7 @@
     "name": "Namacpacan Church",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
     "priceCurrency": "₱",
-    "price": 120,
+    "price": 0,
     "lat":  16.853714,
     "lng": 120.376905
   },
@@ -103,7 +103,7 @@
     "name": "Basilica Minore of OUr Lady of Charity",
     "imageUrl": "https://3.bp.blogspot.com/-_xbpteh5wcI/V_UmDmAxS6I/AAAAAAAAIVg/jAXGX83uVTQv8--LsJAGQwb25MG6t7Y7wCLcB/s1600/IMG_4000.JPG",
     "priceCurrency": "₱",
-    "price": 120,
+    "price": 0,
     "lat":    16.324756,
     "lng": 120.355081
   },
