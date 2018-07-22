@@ -1,6 +1,6 @@
 [
   {
-    "id": 145,
+    "id": 206,
    "name": "Pugad Resort",
     "imageUrl": "http://media.tumblr.com/fa0f28e753e0048bfd610094790a1956/tumblr_inline_mkfk6tJuZm1qz4rgp.jpg",
     "priceCurrency": "₱",
@@ -9,7 +9,7 @@
     "lng": 120.4833
   },
   {
-    "id": 148,
+    "id": 207,
     "name": "Halo halo de iloko",
     "imageUrl": "https://theblissfulraine.files.wordpress.com/2014/10/halo-halo-de-iloko.jpg",
     "priceCurrency": "₱",
@@ -18,7 +18,7 @@
     "lng": 120.3197
   },
   {
-    "id": 201,
+    "id": 208,
     "name": "Bahay na Bato",
     "imageUrl": "http://1.bp.blogspot.com/-pz6GsB-5Prw/VjsYvNkcVbI/AAAAAAAAGDU/fgr9xstMi8o/s1600/Bahay%2BNa%2BBato%2B7.jpg",
     "priceCurrency": "₱",
@@ -27,7 +27,7 @@
     "lng": 120.3517
   },
   {
-    "id": 205,
+    "id": 209,
     "name": "Marand Resort",
     "imageUrl": "http://images.asiatravel.com/Hotel/17684/facade.jpg",
     "priceCurrency": "₱",
@@ -61,6 +61,24 @@
     "price": 200,
     "lat":  16.621514,
     "lng": 120.317510
+  },
+  {
+    "id": 213,
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://thunderbird-asia.com/wp-content/uploads/2017/10/poro-main-page-header.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.609267,
+    "lng": 120.286335
+  },
+   {
+    "id": 214,
+    "name": "Grapes Picking",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/grapes-picking.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat":  16.461432,
+    "lng": 120.333869
   },
     {
     "id": 211,
