@@ -80,6 +80,15 @@
     "lat":  16.461432,
     "lng": 120.333869
   },
+   {
+    "id": 215,
+    "name": "Urbiztondo Beach",
+    "imageUrl": "http://4.bp.blogspot.com/-dYEcPBk7oeg/VKymPojv6QI/AAAAAAAAG2s/PSN5lK2evDw/s1600/16218092672_1e06941e78_o.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat":  16.658783,
+    "lng": 120.321468
+  },
     {
     "id": 211,
     "name": "House",
