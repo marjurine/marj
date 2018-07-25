@@ -103,7 +103,7 @@
     "name": "Langun Gobingob Caves, Samar",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Langun-Gobingob-cave-calbiga.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": ,
     "lat": 11.932599,
     "lng": 125.038795
   },
