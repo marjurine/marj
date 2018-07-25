@@ -89,6 +89,15 @@
     "lat": 9.7518,
     "lng": 126.0676
   },
+  {
+    "id": 211,
+    "name": "Mount Pulag, Luzon",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/6992109548_7410110985_b.jpg",
+    "priceCurrency": "₱",
+    "price": 161,
+    "lat":  16.5975,
+    "lng": 120.8992
+  },
    {
     "id": 212,
     "name": "Langun Gobingob Caves, Samar",
