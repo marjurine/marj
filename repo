@@ -1,21 +1,21 @@
 [
   {
     "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "http://1.bp.blogspot.com/-pz6GsB-5Prw/VjsYvNkcVbI/AAAAAAAAGDU/fgr9xstMi8o/s1600/Bahay%2BNa%2BBato%2B7.jpg",
+    "name": "Chawa Viewdeck, Batanes",
+    "imageUrl": "https://banebanerbanest.files.wordpress.com/2014/09/2-chawa-view-deckjpeg.jpg?w=1177&h=782",
     "priceCurrency": "₱",
     "price": 50,
-    "lat": 16.8472,
-    "lng": 120.3517
+    "lat": 20.427004,
+    "lng": 121.949437
   },
   {
     "id": 202,
-    "name": "Marand Resort",
-    "imageUrl": "http://images.asiatravel.com/Hotel/17684/facade.jpg",
+    "name": "Marlboro Country, Batanes",
+    "imageUrl": "https://banebanerbanest.files.wordpress.com/2014/09/3-marlborojpeg.jpg",
     "priceCurrency": "₱",
     "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "lat": 20.392366,
+    "lng": 121.971764
   },
   {
     "id": 203,
