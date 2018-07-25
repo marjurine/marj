@@ -19,21 +19,21 @@
   },
   {
     "id": 203,
-   "name": "Tangadan Falls",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+   "name": "Huma Island, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/maxresdefault.jpg",
     "priceCurrency": "₱",
     "price": 30,
-    "lat": 16.2833,
-    "lng": 120.4833
+    "lat": 12.0537,
+    "lng": 119.9023
   },
   {
     "id": 204,
-    "name": "Kahuna Resort",
-    "imageUrl": "http://www.kahunaresort.com/images/gallery/pool-view-suite-04.png",
+    "name": "Coron, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-519681201.png",
     "priceCurrency": "₱",
     "price": 200,
-    "lat": 16.6583,
-    "lng": 120.3216
+    "lat": 12.0499,
+    "lng": 120.1782
   },
   {
     "id": 205,
