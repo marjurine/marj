@@ -80,15 +80,6 @@
     "lat": 8.8500,
     "lng": 119.9333
   },
-   {
-    "id": 210,
-    "name": "Siargao, Surigao del Norte",
-    "imageUrl": "https://storage.googleapis.com/blog-trekeffect/2017/12/eyeem-26050278-99482789.jpg",
-    "priceCurrency": "₱",
-    "price": 200,
-    "lat": 9.7518,
-    "lng": 126.0676
-  },
   {
     "id": 211,
     "name": "Mount Pulag, Luzon",
