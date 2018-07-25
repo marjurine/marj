@@ -55,21 +55,21 @@
   },
    {
     "id": 207,
-    "name": "Grapes Picking",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/grapes-picking.jpg",
+    "name": "Tagaytay",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/24597329966_e0e95690a0_b.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat":  16.461432,
-    "lng": 120.333869
+    "lat":  14.1153,
+    "lng": 120.9621
   },
    {
     "id": 208,
-    "name": "Urbiztondo Beach",
+    "name": "Cambugahay Falls Siquijor",
     "imageUrl": "http://4.bp.blogspot.com/-dYEcPBk7oeg/VKymPojv6QI/AAAAAAAAG2s/PSN5lK2evDw/s1600/16218092672_1e06941e78_o.jpg",
     "priceCurrency": "₱",
     "price": 150,
-    "lat":  16.658783,
-    "lng": 120.321468
+    "lat":  9.1399,
+    "lng": 123.6267
   },
   {
     "id": 209,
