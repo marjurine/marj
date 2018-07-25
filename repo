@@ -130,7 +130,7 @@
     "name": "Bontoc, Mountain Province",
     "imageUrl": "https://storage.googleapis.com/blog-trekeffect/2017/12/eyeem-26050278-73181091.jpg",
     "priceCurrency": "₱",
-    "price": 59,
+    "price": 128,
     "lat": 17.0913,
     "lng": 121.0106
   },
@@ -139,7 +139,7 @@
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/marjurine/marj/master/bahay.JPG",
     "priceCurrency": "₱",
-    "price": 62,
+    "price": 0,
     "lat": 16.975348,
     "lng": 120.464735
   }
