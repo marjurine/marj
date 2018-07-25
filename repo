@@ -4,7 +4,7 @@
     "name": "Chawa Viewdeck, Batanes",
     "imageUrl": "https://banebanerbanest.files.wordpress.com/2014/09/2-chawa-view-deckjpeg.jpg?w=1177&h=782",
     "priceCurrency": "₱",
-    "price": 50,
+    "price": 412,
     "lat": 20.427004,
     "lng": 121.949437
   },
@@ -13,7 +13,7 @@
     "name": "Marlboro Country, Batanes",
     "imageUrl": "https://banebanerbanest.files.wordpress.com/2014/09/3-marlborojpeg.jpg",
     "priceCurrency": "₱",
-    "price": 150,
+    "price": 409,
     "lat": 20.392366,
     "lng": 121.971764
   },
@@ -22,7 +22,7 @@
    "name": "Huma Island, Palawan",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/maxresdefault.jpg",
     "priceCurrency": "₱",
-    "price": 30,
+    "price":  552 ,
     "lat": 12.0537,
     "lng": 119.9023
   },
@@ -31,7 +31,7 @@
     "name": "Coron, Palawan",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-519681201.png",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 563,
     "lat": 12.0499,
     "lng": 120.1782
   },
@@ -40,7 +40,7 @@
     "name": "El Nido, Palawan",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-465042272.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 651,
     "lat":  11.2097,
     "lng": 119.4623
   },
@@ -49,7 +49,7 @@
     "name": "Boracay, Aklan",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-467707324.jpg",
     "priceCurrency": "₱",
-    "price": 1500,
+    "price": 580,
     "lat": 11.9674,
     "lng": 121.9248
   },
@@ -58,7 +58,7 @@
     "name": "Tagaytay",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/24597329966_e0e95690a0_b.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 323,
     "lat":  14.1153,
     "lng": 120.9621
   },
@@ -67,7 +67,7 @@
     "name": "Cambugahay Falls Siquijor",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
     "priceCurrency": "₱",
-    "price": 150,
+    "price": 938,
     "lat":  9.1399,
     "lng": 123.6267
   },
@@ -76,7 +76,7 @@
     "name": "Tubbataha Reefs Natural Park",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Tubbataha_Shark.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 827,
     "lat": 8.8500,
     "lng": 119.9333
   },
@@ -85,7 +85,7 @@
     "name": "Siargao, Surigao del Norte",
     "imageUrl": "https://storage.googleapis.com/blog-trekeffect/2017/12/eyeem-26050278-99482789.jpg",
     "priceCurrency": "₱",
-    "price": 200,
+    "price": 997,
     "lat": 9.7518,
     "lng": 126.0676
   },
@@ -94,7 +94,7 @@
     "name": "Mount Pulag, Luzon",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/6992109548_7410110985_b.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 63,
     "lat":  16.5975,
     "lng": 120.8992
   },
@@ -103,7 +103,7 @@
     "name": "Langun Gobingob Caves, Samar",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Langun-Gobingob-cave-calbiga.jpg",
     "priceCurrency": "₱",
-    "price":0 ,
+    "price":777 ,
     "lat": 11.932599,
     "lng": 125.038795
   },
@@ -112,7 +112,7 @@
     "name": "Kalanggaman Island, Leyte",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/7086541803_635db8e9fc_b.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 876,
     "lat": 10.862454,
     "lng": 124.881119
   },
@@ -121,7 +121,7 @@
     "name": "Mayon Volcano, Albay",
     "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Cagsawa_ruins.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 554,
     "lat": 13.2548,
     "lng": 123.6861
   },
@@ -130,7 +130,7 @@
     "name": "Bontoc, Mountain Province",
     "imageUrl": "https://storage.googleapis.com/blog-trekeffect/2017/12/eyeem-26050278-73181091.jpg",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 59,
     "lat": 17.0913,
     "lng": 121.0106
   },
