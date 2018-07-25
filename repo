@@ -37,21 +37,21 @@
   },
   {
     "id": 205,
-    "name": "Macho Temple",
-    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010502.jpg",
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-465042272.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat":  16.621514,
-    "lng": 120.317510
+    "lat":  11.2097,
+    "lng": 119.4623
   },
   {
     "id": 206,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://thunderbird-asia.com/wp-content/uploads/2017/10/poro-main-page-header.jpg",
+    "name": "Boracay, Aklan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-467707324.jpg",
     "priceCurrency": "₱",
     "price": 1500,
-    "lat": 16.609267,
-    "lng": 120.286335
+    "lat": 11.9674,
+    "lng": 121.9248
   },
    {
     "id": 207,
