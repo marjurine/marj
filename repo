@@ -3,8 +3,8 @@
     "id": 201,
     "name": "Chawa Viewdeck, Batanes",
     "imageUrl": "https://banebanerbanest.files.wordpress.com/2014/09/2-chawa-view-deckjpeg.jpg?w=1177&h=782",
-    "priceCurrency": "distance",
-    "price": 412km,
+    "priceCurrency": "₱",
+    "price": 412,
     "lat": 20.427004,
     "lng": 121.949437
   },
